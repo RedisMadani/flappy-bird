@@ -1,6 +1,6 @@
 # Flappy Bird Game
 
-![bird](https://github.com/RedisMadani/flappy-bird/assets/136177376/10a1e576-7384-4ceb-808d-0448e1793df6)
+![bird](https://github.com/RedisMadani/flappy-bird/assets/136177376/cdb8bfca-89fb-4fc9-933a-c0b8348286a5)
 
 This is a simple implementation of the famous Flappy Bird game using C# and Visual Studio. The game allows players to control a bird and navigate it through obstacles by tapping the spacebar to make the bird flap its wings.
 
